@@ -1,1 +1,1 @@
-# op_decks
+# Personal One Piece decks list
